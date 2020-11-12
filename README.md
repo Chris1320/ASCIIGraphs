@@ -38,3 +38,7 @@ with open(filename, 'a') as f:
         time.sleep(3)
 
 ```
+
+## Version History
+
+- v0.0.1.0: ASCIIGraphs released.
